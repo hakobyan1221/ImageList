@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ImageListApp</string>
+    <string name="login_welcome_message">Welcome to Image loading app \n Please Sign in or Sign up</string>
+    <string name="label_email">E-Mail Address</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="label_sign_up">Sign up</string>
+    <string name="label_age">Age</string>
+    <string name="title_sign_up">Welcome to image loading app \n Please sign up to continue</string>
+    <string name="error_image_list">Failed to load image list</string>
+    <string name="label_image_size">Image size:%1$d</string>
+    <string name="label_image_type">Image type:%1$s</string>
+    <string name="label_image_tags">Image tags:%1$s</string>
+    <string name="label_user_name">User name:%1$s</string>
+    <string name="label_image_views">Views:%1$d</string>
+    <string name="label_image_likes">Likes:%1$d</string>
+    <string name="label_image_comments">Comments:%1$d</string>
+    <string name="label_image_favorites">Favorites:%1$d</string>
+    <string name="label_image_downloads">Downloads:%1$d</string>
+</resources>
